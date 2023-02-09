@@ -5,6 +5,8 @@ repo: websites-uptime-monitor # The name of this repository
 sites:
   - name: Portfolio
     url: https://rajharaniya.me
+  - name: Staging Environment of Raj Haraniya
+    url: http://staging-environment.online
   - name: AVZ Consulting
     url: https://avzconsulting.be/
   - name: Umiya Agro Solvex
@@ -19,21 +21,43 @@ sites:
     url: https://shredx.in/
   - name: Evon Ceramics
     url: http://evonceramics.com/
-    
+  - name: ESKRY Beats
+    url: https://eskrybeats.com/
+  - name: A&S Home Health Care
+    url: https://ashhc.com/
+  - name: Breze Cleaning
+    url: https://brezecleaning.com/
+  - name: Capital Tech Services LLP
+    url: https://capitaltechservicesllc.com/
+  - name: Amey Transport
+    url: https://ameytransport.com/
+  - name: Digital Global Hub
+    url: https://digitalglhub.com/
+  - name: Vida Rising Star
+    url: https://vidasrisingstars.com/
+  - name: AHR Services Inc
+    url: https://vidasrisingstars.com/
+  - name: Adriana Dinu Tennis Academy
+    url: https://adrianadinutennisacademy.com/
+  - name: Mary & Nancy Intention Teddy
+    url: https://marynancy.com/
+  - name: Basserah Center
+    url: https://baseerahcenter.com/   
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /websites-uptime-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://rajharaniya.me/wp-content/uploads/2021/02/Raj-Dark-Logo.png
   name: Website Uptime Status - Raj Haraniya
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: This is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This page contains all the websites developed by [Raj Haraniya](https://rajharaniya.me). Purpose of this page is to monitor uptime of developed website in order to provide better and immediate assistance for any downtime event.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: My Portfolio
+      href: https://rajharaniya.me
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
