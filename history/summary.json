@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-environment.online.ico",
     "slug": "staging-environment-of-raj-haraniya",
     "status": "down",
-    "uptime": "0.87%",
-    "uptimeDay": "0.87%",
-    "uptimeWeek": "0.87%",
-    "uptimeMonth": "0.87%",
-    "uptimeYear": "0.87%",
+    "uptime": "2.78%",
+    "uptimeDay": "2.78%",
+    "uptimeWeek": "2.78%",
+    "uptimeMonth": "2.78%",
+    "uptimeYear": "2.78%",
     "time": 282,
     "timeDay": 282,
     "timeWeek": 282,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2023-02-09": 0
+      "2023-02-09": 1
     }
   },
   {
