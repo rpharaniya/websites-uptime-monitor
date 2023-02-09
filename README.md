@@ -1,6 +1,6 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://rpharaniya.github.io/websites-uptime-monitor/): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This is the open-source uptime monitor and status page for websites developed by [Raj Haraniya](https://rajharaniya.me), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/rpharaniya/websites-uptime-monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/rpharaniya/websites-uptime-monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/rpharaniya/websites-uptime-monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/rpharaniya/websites-uptime-monitor/actions?query=workflow%3A%22Response+Time+CI%22)
