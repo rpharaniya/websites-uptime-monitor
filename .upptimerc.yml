@@ -5,7 +5,21 @@ repo: websites-uptime-monitor # The name of this repository
 sites:
   - name: Portfolio
     url: https://rajharaniya.me
-
+  - name: AVZ Consulting
+    url: https://avzconsulting.be/
+  - name: Umiya Agro Solvex
+    url: https://umiyaagrosolvex.com/
+  - name: Jay Industries
+    url: https://jaybrassindustries.com/
+  - name: Maxx Techno Cast
+    url: http://maxxtechnocast.com/
+  - name: Silico Rubber Polymers
+    url: https://silicorubberpolymers.com/
+  - name: ShredX
+    url: https://shredx.in/
+  - name: Evon Ceramics
+    url: http://evonceramics.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
