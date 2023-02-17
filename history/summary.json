@@ -150,19 +150,19 @@
     "url": "https://eskrybeats.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eskrybeats.com.ico",
     "slug": "eskry-beats",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 1305,
-    "timeWeek": 1023,
-    "timeMonth": 792,
-    "timeYear": 792,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 832,
+    "timeDay": 1289,
+    "timeWeek": 1054,
+    "timeMonth": 832,
+    "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-02-17": 0
+      "2023-02-17": 5
     }
   },
   {
