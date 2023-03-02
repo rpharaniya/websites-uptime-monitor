@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/avzconsulting.be.ico",
     "slug": "avz-consulting",
     "status": "up",
-    "uptime": "67.77%",
-    "uptimeDay": "46.33%",
-    "uptimeWeek": "6.62%",
-    "uptimeMonth": "67.77%",
-    "uptimeYear": "67.77%",
+    "uptime": "68.19%",
+    "uptimeDay": "73.69%",
+    "uptimeWeek": "10.53%",
+    "uptimeMonth": "68.19%",
+    "uptimeYear": "68.19%",
     "time": 327,
     "timeDay": 250,
     "timeWeek": 250,
@@ -177,11 +177,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashhc.com.ico",
     "slug": "a-and-s-home-health-care",
     "status": "up",
-    "uptime": "95.62%",
+    "uptime": "95.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.09%",
-    "uptimeMonth": "95.62%",
-    "uptimeYear": "95.62%",
+    "uptimeMonth": "95.68%",
+    "uptimeYear": "95.68%",
     "time": 440,
     "timeDay": 200,
     "timeWeek": 241,
@@ -269,9 +269,9 @@
     "url": "https://vidasrisingstars.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vidasrisingstars.com.ico",
     "slug": "vida-rising-star",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -280,16 +280,18 @@
     "timeWeek": 861,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   },
   {
     "name": "AHR Services Inc",
     "url": "https://vidasrisingstars.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vidasrisingstars.com.ico",
     "slug": "ahr-services-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -298,7 +300,9 @@
     "timeWeek": 397,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   },
   {
     "name": "Adriana Dinu Tennis Academy",
