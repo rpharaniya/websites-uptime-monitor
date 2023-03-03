@@ -34,7 +34,7 @@ sites:
   - name: Vida Rising Star
     url: https://vidasrisingstars.com/
   - name: AHR Services Inc
-    url: https://vidasrisingstars.com/
+    url: https://ahrheatingandcooling.com/
   - name: Adriana Dinu Tennis Academy
     url: https://adrianadinutennisacademy.com/
   - name: Mary & Nancy Intention Teddy
@@ -43,6 +43,8 @@ sites:
     url: https://baseerahcenter.com/
   - name: MK Renovation & Remodel
     url: https://mkrenovationremodel.com/
+  - name: My Fair Delivery
+    url: https://mayfairdelivery.com/
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
