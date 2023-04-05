@@ -72,19 +72,19 @@
     "url": "https://jaybrassindustries.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jaybrassindustries.com.ico",
     "slug": "jay-industries",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 5325,
-    "timeWeek": 3727,
-    "timeMonth": 2269,
-    "timeYear": 1598,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1631,
+    "timeDay": 5231,
+    "timeWeek": 3747,
+    "timeMonth": 2310,
+    "timeYear": 1631,
     "dailyMinutesDown": {
-      "2023-04-05": 1
+      "2023-04-05": 6
     }
   },
   {
@@ -110,19 +110,19 @@
     "url": "https://silicorubberpolymers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/silicorubberpolymers.com.ico",
     "slug": "silico-rubber-polymers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 3433,
-    "timeWeek": 1319,
-    "timeMonth": 860,
-    "timeYear": 756,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 785,
+    "timeDay": 3159,
+    "timeWeek": 1463,
+    "timeMonth": 913,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2023-04-05": 1
+      "2023-04-05": 6
     }
   },
   {
@@ -131,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shredx.in.ico",
     "slug": "shred-x",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 824,
     "timeDay": 4529,
     "timeWeek": 2559,
     "timeMonth": 1065,
     "timeYear": 824,
-    "dailyMinutesDown": {
-      "2023-04-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Evon Ceramics",
@@ -189,7 +187,7 @@
     "status": "up",
     "uptime": "91.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
+    "uptimeWeek": "99.18%",
     "uptimeMonth": "87.11%",
     "uptimeYear": "91.27%",
     "time": 449,
@@ -298,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-05": 951,
+      "2023-04-05": 956,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
