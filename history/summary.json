@@ -92,18 +92,20 @@
     "url": "http://maxxtechnocast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1782,
-    "timeDay": 6385,
-    "timeWeek": 4346,
-    "timeMonth": 2440,
-    "timeYear": 1782,
-    "dailyMinutesDown": {}
+    "time": 1766,
+    "timeDay": 5652,
+    "timeWeek": 4133,
+    "timeMonth": 2396,
+    "timeYear": 1766,
+    "dailyMinutesDown": {
+      "2023-04-06": 1
+    }
   },
   {
     "name": "Silico Rubber Polymers",
@@ -147,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-ceramics",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1222,
     "timeDay": 8158,
     "timeWeek": 3843,
     "timeMonth": 1619,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2023-04-06": 0
+      "2023-04-06": 7
     }
   },
   {
@@ -296,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-06": 442,
+      "2023-04-06": 449,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
