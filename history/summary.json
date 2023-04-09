@@ -72,18 +72,19 @@
     "url": "https://jaybrassindustries.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jaybrassindustries.com.ico",
     "slug": "jay-industries",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 2046,
-    "timeDay": 328,
-    "timeWeek": 4824,
-    "timeMonth": 2968,
-    "timeYear": 2046,
+    "uptimeYear": "99.97%",
+    "time": 2065,
+    "timeDay": 2018,
+    "timeWeek": 4781,
+    "timeMonth": 2982,
+    "timeYear": 2065,
     "dailyMinutesDown": {
+      "2023-04-09": 1,
       "2023-04-05": 21
     }
   },
@@ -93,18 +94,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1865,
     "timeDay": 5007,
     "timeWeek": 4491,
     "timeMonth": 2624,
     "timeYear": 1865,
     "dailyMinutesDown": {
-      "2023-04-09": 1
+      "2023-04-09": 7
     }
   },
   {
@@ -112,18 +113,20 @@
     "url": "https://silicorubberpolymers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/silicorubberpolymers.com.ico",
     "slug": "silico-rubber-polymers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 284,
-    "timeWeek": 1567,
-    "timeMonth": 890,
-    "timeYear": 784,
-    "dailyMinutesDown": {}
+    "time": 828,
+    "timeDay": 2027,
+    "timeWeek": 1787,
+    "timeMonth": 975,
+    "timeYear": 828,
+    "dailyMinutesDown": {
+      "2023-04-09": 1
+    }
   },
   {
     "name": "ShredX",
@@ -148,18 +151,20 @@
     "url": "http://evonceramics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-ceramics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1297,
-    "timeDay": 393,
-    "timeWeek": 3969,
-    "timeMonth": 1811,
-    "timeYear": 1297,
-    "dailyMinutesDown": {}
+    "time": 1354,
+    "timeDay": 2886,
+    "timeWeek": 4078,
+    "timeMonth": 1908,
+    "timeYear": 1354,
+    "dailyMinutesDown": {
+      "2023-04-09": 0
+    }
   },
   {
     "name": "ESKRY Beats",
@@ -296,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-09": 1068,
+      "2023-04-09": 1074,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
