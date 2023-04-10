@@ -110,19 +110,19 @@
     "url": "https://silicorubberpolymers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/silicorubberpolymers.com.ico",
     "slug": "silico-rubber-polymers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1625,
-    "timeDay": 5647,
-    "timeWeek": 4218,
-    "timeMonth": 2315,
-    "timeYear": 1625,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1651,
+    "timeDay": 5525,
+    "timeWeek": 4201,
+    "timeMonth": 2347,
+    "timeYear": 1651,
     "dailyMinutesDown": {
-      "2023-04-10": 1
+      "2023-04-10": 6
     }
   },
   {
@@ -130,19 +130,19 @@
     "url": "https://shredx.in/",
     "icon": "https://icons.duckduckgo.com/ip3/shredx.in.ico",
     "slug": "shred-x",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1422,
-    "timeDay": 4916,
-    "timeWeek": 4090,
-    "timeMonth": 2144,
-    "timeYear": 1422,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1447,
+    "timeDay": 4750,
+    "timeWeek": 4058,
+    "timeMonth": 2172,
+    "timeYear": 1447,
     "dailyMinutesDown": {
-      "2023-04-10": 1
+      "2023-04-10": 6
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "http://evonceramics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-ceramics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.85%",
-    "time": 2185,
-    "timeDay": 6329,
-    "timeWeek": 5471,
-    "timeMonth": 3195,
-    "timeYear": 2185,
+    "time": 2222,
+    "timeDay": 6271,
+    "timeWeek": 5468,
+    "timeMonth": 3238,
+    "timeYear": 2222,
     "dailyMinutesDown": {
-      "2023-04-10": 129
+      "2023-04-10": 135
     }
   },
   {
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-10": 697,
+      "2023-04-10": 703,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
