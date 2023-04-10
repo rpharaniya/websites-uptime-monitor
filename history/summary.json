@@ -93,18 +93,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 3090,
     "timeDay": 6891,
     "timeWeek": 5949,
     "timeMonth": 4207,
     "timeYear": 3090,
     "dailyMinutesDown": {
-      "2023-04-10": 25
+      "2023-04-10": 19
     }
   },
   {
@@ -148,19 +148,19 @@
     "url": "http://evonceramics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-ceramics",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "91.07%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.85%",
-    "time": 2575,
-    "timeDay": 6793,
-    "timeWeek": 5862,
-    "timeMonth": 3701,
-    "timeYear": 2575,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.84%",
+    "time": 2592,
+    "timeDay": 6664,
+    "timeWeek": 5810,
+    "timeMonth": 3708,
+    "timeYear": 2592,
     "dailyMinutesDown": {
-      "2023-04-10": 130
+      "2023-04-10": 141
     }
   },
   {
@@ -298,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-10": 1142,
+      "2023-04-10": 1154,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
