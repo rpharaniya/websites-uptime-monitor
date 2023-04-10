@@ -92,18 +92,20 @@
     "url": "http://maxxtechnocast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2998,
-    "timeDay": 7050,
-    "timeWeek": 5928,
-    "timeMonth": 4117,
-    "timeYear": 2998,
-    "dailyMinutesDown": {}
+    "time": 2974,
+    "timeDay": 6787,
+    "timeWeek": 5801,
+    "timeMonth": 4065,
+    "timeYear": 2974,
+    "dailyMinutesDown": {
+      "2023-04-10": 2
+    }
   },
   {
     "name": "Silico Rubber Polymers",
@@ -148,9 +150,9 @@
     "slug": "evon-ceramics",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "90.77%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.85%",
     "time": 2292,
     "timeDay": 5957,
@@ -158,7 +160,7 @@
     "timeMonth": 3296,
     "timeYear": 2292,
     "dailyMinutesDown": {
-      "2023-04-10": 134
+      "2023-04-10": 129
     }
   },
   {
@@ -210,19 +212,19 @@
     "url": "https://brezecleaning.com/",
     "icon": "https://icons.duckduckgo.com/ip3/brezecleaning.com.ico",
     "slug": "breze-cleaning",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 1251,
-    "timeDay": 2983,
-    "timeWeek": 1836,
-    "timeMonth": 1338,
-    "timeYear": 1251,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1273,
+    "timeDay": 2949,
+    "timeWeek": 1911,
+    "timeMonth": 1378,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2023-04-10": 1,
+      "2023-04-10": 8,
       "2023-04-05": 15
     }
   },
@@ -297,7 +299,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-10": 869,
+      "2023-04-10": 876,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
@@ -403,19 +405,19 @@
     "url": "https://baseerahcenter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/baseerahcenter.com.ico",
     "slug": "basserah-center",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 2450,
-    "timeWeek": 891,
-    "timeMonth": 588,
-    "timeYear": 1047,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1087,
+    "timeDay": 2899,
+    "timeWeek": 1214,
+    "timeMonth": 685,
+    "timeYear": 1087,
     "dailyMinutesDown": {
-      "2023-04-10": 0
+      "2023-04-10": 7
     }
   },
   {
