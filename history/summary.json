@@ -130,19 +130,19 @@
     "url": "https://shredx.in/",
     "icon": "https://icons.duckduckgo.com/ip3/shredx.in.ico",
     "slug": "shred-x",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1500,
-    "timeDay": 4292,
-    "timeWeek": 3916,
-    "timeMonth": 2219,
-    "timeYear": 1500,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1543,
+    "timeDay": 4354,
+    "timeWeek": 3963,
+    "timeMonth": 2278,
+    "timeYear": 1543,
     "dailyMinutesDown": {
-      "2023-04-10": 1
+      "2023-04-10": 6
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "http://evonceramics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-ceramics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "91.06%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.85%",
-    "time": 2359,
-    "timeDay": 6075,
-    "timeWeek": 5445,
-    "timeMonth": 3387,
-    "timeYear": 2359,
+    "time": 2455,
+    "timeDay": 6315,
+    "timeWeek": 5623,
+    "timeMonth": 3526,
+    "timeYear": 2455,
     "dailyMinutesDown": {
-      "2023-04-10": 130
+      "2023-04-10": 135
     }
   },
   {
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-10": 951,
+      "2023-04-10": 957,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
@@ -349,9 +349,9 @@
     "slug": "ahr-services-inc",
     "status": "up",
     "uptime": "97.72%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.72%",
     "time": 479,
     "timeDay": 3296,
@@ -359,7 +359,6 @@
     "timeMonth": 670,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2023-04-10": 6,
       "2023-03-03": 992,
       "2023-03-02": 984
     }
@@ -370,19 +369,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/adrianadinutennisacademy.com.ico",
     "slug": "adriana-dinu-tennis-academy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1190,
     "timeDay": 2448,
     "timeWeek": 1075,
     "timeMonth": 1079,
     "timeYear": 1190,
-    "dailyMinutesDown": {
-      "2023-04-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mary & Nancy Intention Teddy",
