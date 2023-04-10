@@ -73,18 +73,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jaybrassindustries.com.ico",
     "slug": "jay-industries",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 3556,
     "timeDay": 7697,
     "timeWeek": 6526,
     "timeMonth": 4773,
     "timeYear": 3556,
     "dailyMinutesDown": {
-      "2023-04-10": 6,
       "2023-04-05": 21
     }
   },
@@ -94,19 +93,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2899,
     "timeDay": 7156,
     "timeWeek": 5898,
     "timeMonth": 4016,
     "timeYear": 2899,
-    "dailyMinutesDown": {
-      "2023-04-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silico Rubber Polymers",
@@ -149,19 +146,19 @@
     "url": "http://evonceramics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-ceramics",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.85%",
-    "time": 1986,
-    "timeDay": 5696,
-    "timeWeek": 5057,
-    "timeMonth": 2893,
-    "timeYear": 1986,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.84%",
+    "time": 2023,
+    "timeDay": 5655,
+    "timeWeek": 5059,
+    "timeMonth": 2938,
+    "timeYear": 2023,
     "dailyMinutesDown": {
-      "2023-04-10": 129
+      "2023-04-10": 135
     }
   },
   {
@@ -215,9 +212,9 @@
     "slug": "breze-cleaning",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1203,
     "timeDay": 2465,
@@ -225,7 +222,6 @@
     "timeMonth": 1247,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-04-10": 6,
       "2023-04-05": 15
     }
   },
@@ -300,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-10": 683,
+      "2023-04-10": 690,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
