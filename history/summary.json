@@ -93,18 +93,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 2790,
     "timeDay": 7277,
     "timeWeek": 5854,
     "timeMonth": 3899,
     "timeYear": 2790,
     "dailyMinutesDown": {
-      "2023-04-10": 1
+      "2023-04-10": 7
     }
   },
   {
@@ -112,19 +112,19 @@
     "url": "https://silicorubberpolymers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/silicorubberpolymers.com.ico",
     "slug": "silico-rubber-polymers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1367,
-    "timeDay": 5273,
-    "timeWeek": 3692,
-    "timeMonth": 1908,
-    "timeYear": 1367,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1400,
+    "timeDay": 5149,
+    "timeWeek": 3704,
+    "timeMonth": 1955,
+    "timeYear": 1400,
     "dailyMinutesDown": {
-      "2023-04-10": 0
+      "2023-04-10": 6
     }
   },
   {
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-10": 204,
+      "2023-04-10": 210,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
