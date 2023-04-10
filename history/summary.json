@@ -93,19 +93,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2625,
     "timeDay": 6862,
     "timeWeek": 5575,
     "timeMonth": 3676,
     "timeYear": 2625,
-    "dailyMinutesDown": {
-      "2023-04-09": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silico Rubber Polymers",
@@ -131,28 +129,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/shredx.in.ico",
     "slug": "shred-x",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1216,
     "timeDay": 3875,
     "timeWeek": 3638,
     "timeMonth": 1814,
     "timeYear": 1216,
-    "dailyMinutesDown": {
-      "2023-04-09": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Evon Ceramics",
     "url": "http://evonceramics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evonceramics.com.ico",
     "slug": "evon-ceramics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +157,9 @@
     "timeWeek": 4193,
     "timeMonth": 2005,
     "timeYear": 1400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   },
   {
     "name": "ESKRY Beats",
@@ -287,18 +285,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vidasrisingstars.com.ico",
     "slug": "vida-rising-star",
     "status": "down",
-    "uptime": "35.10%",
+    "uptime": "35.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.10%",
+    "uptimeYear": "35.09%",
     "time": 545,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-09": 1428,
+      "2023-04-10": 2,
+      "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
