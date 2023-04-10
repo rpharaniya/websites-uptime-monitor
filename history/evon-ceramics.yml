@@ -1,7 +1,7 @@
 url: http://evonceramics.com/
-status: up
-code: 200
-responseTime: 4014
-lastUpdated: 2023-04-10T14:27:10.611Z
+status: down
+code: 502
+responseTime: 8316
+lastUpdated: 2023-04-10T15:50:07.988Z
 startTime: Thu Feb 09 2023 09:01:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
