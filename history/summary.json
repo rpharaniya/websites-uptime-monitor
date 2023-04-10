@@ -92,19 +92,19 @@
     "url": "http://maxxtechnocast.com/",
     "icon": "https://icons.duckduckgo.com/ip3/maxxtechnocast.com.ico",
     "slug": "maxx-techno-cast",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 2790,
-    "timeDay": 7277,
-    "timeWeek": 5854,
-    "timeMonth": 3899,
-    "timeYear": 2790,
+    "time": 2800,
+    "timeDay": 7093,
+    "timeWeek": 5798,
+    "timeMonth": 3898,
+    "timeYear": 2800,
     "dailyMinutesDown": {
-      "2023-04-10": 7
+      "2023-04-10": 13
     }
   },
   {
@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/silicorubberpolymers.com.ico",
     "slug": "silico-rubber-polymers",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1400,
     "timeDay": 5149,
     "timeWeek": 3704,
     "timeMonth": 1955,
     "timeYear": 1400,
-    "dailyMinutesDown": {
-      "2023-04-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ShredX",
@@ -300,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-10": 210,
+      "2023-04-10": 216,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
