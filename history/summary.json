@@ -112,19 +112,19 @@
     "url": "https://silicorubberpolymers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/silicorubberpolymers.com.ico",
     "slug": "silico-rubber-polymers",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1745,
-    "timeDay": 4583,
-    "timeWeek": 4233,
-    "timeMonth": 2489,
-    "timeYear": 1745,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1732,
+    "timeDay": 3252,
+    "timeWeek": 4098,
+    "timeMonth": 2452,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2023-04-11": 1
+      "2023-04-11": 6
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://shredx.in/",
     "icon": "https://icons.duckduckgo.com/ip3/shredx.in.ico",
     "slug": "shred-x",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1632,
-    "timeDay": 5380,
-    "timeWeek": 4211,
-    "timeMonth": 2439,
-    "timeYear": 1632,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1619,
+    "timeDay": 3742,
+    "timeWeek": 4072,
+    "timeMonth": 2400,
+    "timeYear": 1619,
     "dailyMinutesDown": {
-      "2023-04-11": 1
+      "2023-04-11": 6
     }
   },
   {
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-11": 1167,
+      "2023-04-11": 1173,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
