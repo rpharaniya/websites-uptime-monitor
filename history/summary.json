@@ -130,19 +130,19 @@
     "url": "https://shredx.in/",
     "icon": "https://icons.duckduckgo.com/ip3/shredx.in.ico",
     "slug": "shred-x",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1714,
-    "timeDay": 3583,
-    "timeWeek": 3589,
-    "timeMonth": 2567,
-    "timeYear": 1714,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1711,
+    "timeDay": 2860,
+    "timeWeek": 3502,
+    "timeMonth": 2546,
+    "timeYear": 1711,
     "dailyMinutesDown": {
-      "2023-04-13": 1
+      "2023-04-13": 6
     }
   },
   {
@@ -305,7 +305,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-13": 1189,
+      "2023-04-13": 1195,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
