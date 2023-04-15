@@ -303,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-04-15": 1280,
+      "2023-04-15": 1285,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -414,19 +414,19 @@
     "url": "https://baseerahcenter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/baseerahcenter.com.ico",
     "slug": "basserah-center",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1552,
-    "timeDay": 7185,
-    "timeWeek": 3727,
-    "timeMonth": 1694,
-    "timeYear": 1552,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1549,
+    "timeDay": 6024,
+    "timeWeek": 3589,
+    "timeMonth": 1687,
+    "timeYear": 1549,
     "dailyMinutesDown": {
-      "2023-04-15": 1
+      "2023-04-15": 6
     }
   },
   {
