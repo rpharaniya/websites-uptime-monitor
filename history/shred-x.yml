@@ -1,7 +1,7 @@
 url: https://shredx.in/
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2023-04-20T17:40:38.598Z
+status: down
+code: 502
+responseTime: 6339
+lastUpdated: 2023-04-20T19:03:16.446Z
 startTime: Thu Feb 09 2023 09:01:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
