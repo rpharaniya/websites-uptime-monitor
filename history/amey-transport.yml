@@ -1,7 +1,7 @@
 url: https://ameytransport.com/
-status: up
-code: 200
-responseTime: 1013
-lastUpdated: 2023-05-09T06:57:34.318Z
+status: down
+code: 502
+responseTime: 10012
+lastUpdated: 2023-05-09T07:26:37.093Z
 startTime: Thu Feb 09 2023 09:36:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
