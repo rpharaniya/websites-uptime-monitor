@@ -239,18 +239,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shredx.in.ico",
     "slug": "shred-x",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "98.69%",
     "time": 2970,
     "timeDay": 222,
     "timeWeek": 299,
     "timeMonth": 267,
     "timeYear": 2970,
     "dailyMinutesDown": {
-      "2023-09-19": 13,
       "2023-09-15": 29,
       "2023-07-28": 27,
       "2023-07-26": 676,
@@ -505,7 +504,7 @@
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-09-19": 321,
+      "2023-09-19": 342,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
@@ -841,9 +840,9 @@
     "url": "https://mayfairdelivery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mayfairdelivery.com.ico",
     "slug": "my-fair-delivery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -852,6 +851,8 @@
     "timeWeek": 1424,
     "timeMonth": 1290,
     "timeYear": 1427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-19": 0
+    }
   }
 ]
