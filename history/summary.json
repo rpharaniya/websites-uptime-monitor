@@ -593,7 +593,7 @@
     "timeMonth": 0,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2024-02-18": 1298,
+      "2024-02-18": 1304,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1083,19 +1083,19 @@
     "url": "https://mayfairdelivery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mayfairdelivery.com.ico",
     "slug": "my-fair-delivery",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1391,
-    "timeDay": 860,
-    "timeWeek": 1292,
-    "timeMonth": 1352,
-    "timeYear": 1391,
+    "time": 1393,
+    "timeDay": 1440,
+    "timeWeek": 1383,
+    "timeMonth": 1373,
+    "timeYear": 1393,
     "dailyMinutesDown": {
-      "2024-02-18": 1
+      "2024-02-18": 6
     }
   }
 ]
