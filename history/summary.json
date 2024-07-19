@@ -30,8 +30,7 @@
       "2023-08-11": 30,
       "2023-08-03": 165,
       "2023-08-02": 31,
-      "2023-07-24": 19,
-      "2023-07-20": 19
+      "2023-07-24": 19
     }
   },
   {
@@ -40,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/avzconsulting.be.ico",
     "slug": "avz-consulting",
     "status": "down",
-    "uptime": "72.05%",
+    "uptime": "72.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.59%",
+    "uptimeYear": "61.57%",
     "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-07-18": 1427,
+      "2024-07-19": 55,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -619,7 +619,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-18": 1427,
+      "2024-07-19": 55,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -982,8 +983,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -1103,17 +1103,15 @@
     "slug": "my-fair-delivery",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1367,
     "timeDay": 1136,
     "timeWeek": 1086,
     "timeMonth": 1185,
     "timeYear": 1343,
-    "dailyMinutesDown": {
-      "2024-07-18": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
