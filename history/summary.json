@@ -14,7 +14,7 @@
     "timeDay": 2091,
     "timeWeek": 2027,
     "timeMonth": 1906,
-    "timeYear": 1816,
+    "timeYear": 1817,
     "dailyMinutesDown": {
       "2024-08-02": 18,
       "2024-07-27": 17,
@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2024-09-23": 1380,
+      "2024-09-23": 1397,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -273,7 +273,7 @@
     "timeDay": 2285,
     "timeWeek": 2052,
     "timeMonth": 2023,
-    "timeYear": 2854,
+    "timeYear": 2855,
     "dailyMinutesDown": {
       "2024-08-02": 18,
       "2024-07-27": 17,
@@ -301,7 +301,7 @@
     "timeDay": 2791,
     "timeWeek": 2818,
     "timeMonth": 2583,
-    "timeYear": 2659,
+    "timeYear": 2660,
     "dailyMinutesDown": {
       "2024-08-02": 17,
       "2024-07-27": 17,
@@ -328,7 +328,7 @@
     "timeDay": 796,
     "timeWeek": 1423,
     "timeMonth": 1298,
-    "timeYear": 995,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2024-08-30": 18,
       "2024-03-26": 16,
@@ -351,7 +351,7 @@
     "timeDay": 1434,
     "timeWeek": 2221,
     "timeMonth": 2279,
-    "timeYear": 2488,
+    "timeYear": 2489,
     "dailyMinutesDown": {
       "2024-08-16": 19,
       "2024-08-04": 15,
@@ -378,7 +378,7 @@
     "timeDay": 1283,
     "timeWeek": 1475,
     "timeMonth": 1393,
-    "timeYear": 727,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2024-05-06": 627,
       "2024-05-05": 1440,
@@ -405,7 +405,7 @@
     "timeDay": 2253,
     "timeWeek": 2362,
     "timeMonth": 2303,
-    "timeYear": 1717,
+    "timeYear": 1719,
     "dailyMinutesDown": {
       "2024-02-08": 96,
       "2024-02-07": 1116,
@@ -501,19 +501,19 @@
     "url": "https://ashhc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ashhc.com.ico",
     "slug": "a-and-s-home-health-care",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
-    "time": 1617,
-    "timeDay": 153,
-    "timeWeek": 1041,
-    "timeMonth": 1605,
-    "timeYear": 1602,
+    "time": 1615,
+    "timeDay": 150,
+    "timeWeek": 929,
+    "timeMonth": 1560,
+    "timeYear": 1600,
     "dailyMinutesDown": {
-      "2024-09-23": 0,
+      "2024-09-23": 16,
       "2024-07-08": 80,
       "2024-04-08": 19,
       "2024-04-01": 32,
@@ -538,7 +538,7 @@
     "timeDay": 315,
     "timeWeek": 414,
     "timeMonth": 562,
-    "timeYear": 472,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2024-06-19": 32,
       "2023-09-30": 16
@@ -624,7 +624,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-23": 1381,
+      "2024-09-23": 1397,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -1026,7 +1026,7 @@
     "timeDay": 248,
     "timeWeek": 367,
     "timeMonth": 522,
-    "timeYear": 428,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2024-06-19": 32
     }
@@ -1067,7 +1067,7 @@
     "timeDay": 270,
     "timeWeek": 364,
     "timeMonth": 523,
-    "timeYear": 398,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-06-19": 32
     }
