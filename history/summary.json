@@ -42,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-22": 1433,
+      "2025-03-23": 14,
+      "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -405,8 +406,7 @@
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
-      "2024-03-24": 1440,
-      "2024-03-23": 1440
+      "2024-03-24": 1440
     }
   },
   {
@@ -566,9 +566,9 @@
     "slug": "eskry-beats",
     "status": "up",
     "uptime": "92.26%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 130,
     "timeDay": 144,
@@ -576,7 +576,6 @@
     "timeMonth": 140,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2025-03-22": 6,
       "2025-02-28": 24,
       "2025-02-14": 15,
       "2025-02-10": 16,
@@ -684,7 +683,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ameytransport.com.ico",
     "slug": "amey-transport",
     "status": "down",
-    "uptime": "78.89%",
+    "uptime": "78.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -695,7 +694,8 @@
     "timeMonth": 0,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-03-22": 1433,
+      "2025-03-23": 14,
+      "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -908,7 +908,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.23%",
+    "uptimeYear": "14.24%",
     "time": 163,
     "timeDay": 155,
     "timeWeek": 155,
@@ -1227,8 +1227,7 @@
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
-      "2024-03-24": 1440,
-      "2024-03-23": 1440
+      "2024-03-24": 1440
     }
   },
   {
@@ -1270,7 +1269,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adrianadinutennisacademy.com.ico",
     "slug": "adriana-dinu-tennis-academy",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.68%",
