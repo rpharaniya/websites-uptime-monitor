@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-13": 416,
+      "2025-06-13": 422,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -720,7 +720,7 @@
     "timeMonth": 0,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-06-13": 416,
+      "2025-06-13": 422,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -1430,19 +1430,19 @@
     "url": "https://mayfairdelivery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mayfairdelivery.com.ico",
     "slug": "my-fair-delivery",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 789,
-    "timeWeek": 978,
-    "timeMonth": 1079,
+    "time": 1230,
+    "timeDay": 883,
+    "timeWeek": 988,
+    "timeMonth": 1078,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2025-06-13": 1
+      "2025-06-13": 6
     }
   }
 ]
