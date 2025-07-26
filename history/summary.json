@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 503,
+      "2025-07-26": 516,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -713,14 +713,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.05%",
+    "uptimeYear": "21.04%",
     "time": 325,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-07-26": 503,
+      "2025-07-26": 516,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -1054,7 +1054,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vidasrisingstars.com.ico",
     "slug": "vida-rising-star",
     "status": "up",
-    "uptime": "22.07%",
+    "uptime": "22.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1435,19 +1435,19 @@
     "url": "https://mayfairdelivery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mayfairdelivery.com.ico",
     "slug": "my-fair-delivery",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 834,
-    "timeWeek": 820,
-    "timeMonth": 874,
+    "time": 1181,
+    "timeDay": 929,
+    "timeWeek": 843,
+    "timeMonth": 880,
     "timeYear": 1147,
     "dailyMinutesDown": {
-      "2025-07-26": 1
+      "2025-07-26": 13
     }
   }
 ]
