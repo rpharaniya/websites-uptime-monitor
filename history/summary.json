@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 1371,
+      "2025-08-02": 1377,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -507,8 +507,8 @@
     "status": "down",
     "uptime": "98.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.18%",
-    "uptimeMonth": "78.18%",
+    "uptimeWeek": "5.12%",
+    "uptimeMonth": "78.17%",
     "uptimeYear": "98.18%",
     "time": 1171,
     "timeDay": 0,
@@ -516,7 +516,7 @@
     "timeMonth": 1534,
     "timeYear": 1370,
     "dailyMinutesDown": {
-      "2025-08-02": 1371,
+      "2025-08-02": 1377,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -577,17 +577,17 @@
     "url": "https://ashhc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ashhc.com.ico",
     "slug": "a-and-s-home-health-care",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "62.97%",
-    "uptimeWeek": "66.61%",
-    "uptimeMonth": "92.32%",
+    "uptimeDay": "62.94%",
+    "uptimeWeek": "66.83%",
+    "uptimeMonth": "92.37%",
     "uptimeYear": "99.36%",
-    "time": 1598,
-    "timeDay": 1266,
-    "timeWeek": 1269,
-    "timeMonth": 1424,
-    "timeYear": 1622,
+    "time": 1596,
+    "timeDay": 1251,
+    "timeWeek": 1266,
+    "timeMonth": 1422,
+    "timeYear": 1621,
     "dailyMinutesDown": {
       "2025-08-02": 534,
       "2025-08-01": 444,
@@ -595,7 +595,7 @@
       "2025-07-30": 634,
       "2025-07-29": 628,
       "2025-07-28": 530,
-      "2025-07-27": 70
+      "2025-07-27": 48
     }
   },
   {
@@ -729,7 +729,7 @@
     "timeMonth": 0,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-08-02": 1371,
+      "2025-08-02": 1377,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
