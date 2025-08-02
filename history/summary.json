@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 15,
+      "2025-08-02": 38,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -507,16 +507,16 @@
     "status": "down",
     "uptime": "98.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.63%",
-    "uptimeMonth": "81.28%",
-    "uptimeYear": "98.44%",
+    "uptimeWeek": "18.40%",
+    "uptimeMonth": "81.22%",
+    "uptimeYear": "98.43%",
     "time": 1171,
     "timeDay": 0,
     "timeWeek": 1308,
     "timeMonth": 1534,
     "timeYear": 1370,
     "dailyMinutesDown": {
-      "2025-08-02": 15,
+      "2025-08-02": 38,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -727,7 +727,7 @@
     "timeMonth": 0,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-08-02": 15,
+      "2025-08-02": 38,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -1447,17 +1447,19 @@
     "url": "https://mayfairdelivery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mayfairdelivery.com.ico",
     "slug": "my-fair-delivery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1169,
-    "timeDay": 801,
-    "timeWeek": 829,
-    "timeMonth": 888,
-    "timeYear": 1134,
-    "dailyMinutesDown": {}
+    "time": 1166,
+    "timeDay": 632,
+    "timeWeek": 775,
+    "timeMonth": 870,
+    "timeYear": 1132,
+    "dailyMinutesDown": {
+      "2025-08-02": 1
+    }
   }
 ]
